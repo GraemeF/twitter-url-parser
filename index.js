@@ -18,5 +18,7 @@ module.exports = function getStatusId(uri) {
     return null;
   }
 
-  return match[2];
+  return {
+    id: match[2]
+  };
 }
