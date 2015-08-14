@@ -9,7 +9,7 @@ module.exports = function getStatusId(uri) {
     return null;
   }
 
-  if (parsed.path.indexOf('statuses') === -1) {
+  if (parsed.path.indexOf('status') === -1) {
     return null;
   }
 

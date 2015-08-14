@@ -1,6 +1,6 @@
 {
   "name": "twitter-url-parser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Extracts stuff from a Twitter status URL.",
   "main": "index.js",
   "scripts": {
